@@ -1,7 +1,7 @@
 # excel_homework
 
 What is it?
-  - I used Excel functions, pivot tables, and charting to visualize and understand the market for Kickstarter crowdfunded fundraisers. 
+  - I used Excel functions, pivot tables, conditional formatting and charting to visualize and understand the market for Kickstarter crowdfunded fundraisers. 
  
 Excel Homework 
 
